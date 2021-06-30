@@ -8,6 +8,3 @@ Whether you’re tackling budgeting for college students or financial modeling f
 ## Cryptocurrency Price Tracker
 The way this works is, given the price you bought a certain crypto at, if the value of the currency goes above the price you bought it at, the script plays "You Suffer" by Napalm Death at full volume over your speakers.
 
-Inspired by Bertram Gilfoyle from Silicon Valley
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/uS1KcjkWdoU/0.jpg)](http://www.youtube.com/watch?v=uS1KcjkWdoU)
